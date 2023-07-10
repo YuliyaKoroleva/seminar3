@@ -1,0 +1,15 @@
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\obj\Debug\net6.0\exersise19.csproj.AssemblyReference.cache
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\obj\Debug\net6.0\exersise19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\obj\Debug\net6.0\exersise19.AssemblyInfoInputs.cache
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\obj\Debug\net6.0\exersise19.AssemblyInfo.cs
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\obj\Debug\net6.0\exersise19.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\bin\Debug\net6.0\exersise19.exe
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\bin\Debug\net6.0\exersise19.deps.json
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\bin\Debug\net6.0\exersise19.runtimeconfig.json
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\bin\Debug\net6.0\exersise19.dll
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\bin\Debug\net6.0\exersise19.pdb
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\obj\Debug\net6.0\exersise19.dll
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\obj\Debug\net6.0\refint\exersise19.dll
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\obj\Debug\net6.0\exersise19.pdb
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\obj\Debug\net6.0\exersise19.genruntimeconfig.cache
+C:\Users\Yulya\Desktop\home_work_C#_3\exersise19\obj\Debug\net6.0\ref\exersise19.dll
